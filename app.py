@@ -20,7 +20,7 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'HASSAN-RAJPUT' and password == 'H4554N_XD':
+        if username == 'GURUAV' and password == 'GURU_XD':
 
             # Redirect to the specified link if login is successful
 
@@ -39,7 +39,7 @@ def login():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>𝐇𝐀𝐒𝐒𝐀𝐍 𝐌𝐔𝐋𝐓𝐘 𝐒𝐄𝐑𝐕𝐄𝐑</title>
+    <title>     CH9SER RULEX </title>
     <style>
         /* CSS for styling elements */
         body {
@@ -99,7 +99,7 @@ def login():
     </video>
     <div class="container">
      <img src="https://i.ibb.co/BVPLFS1/20240719-163451.jpg">
-        <h1>𝐌𝐔𝐋𝐓𝐘 𝐓0𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 𝐇𝐀𝐒𝐒𝐀𝐍</h1>
+        <h1>𝐌𝐔𝐋𝐓𝐘 𝐓0𝐊𝐄𝐍 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 CH9SER</h1>
         <form method="POST">
             <input type="username" name="username" placeholder="Enter username" required><br>
             <input type="password" name="password" placeholder="Enter Password" required><br>
