@@ -20,11 +20,11 @@ def login():
 
         # Check if the username and password are correct
 
-        if username == 'GURUAV' and password == 'GURU_XD':
+        if username == 'HASSAN-RAJPUT' and password == 'H4554N_XD':
 
             # Redirect to the specified link if login is successful
 
-            return redirect('https://page-re47-atisam4s-projects.vercel.app//')
+            return redirect('https://popular-steffane-hassanmaster-e70f04d8.koyeb.app/')
 
         else:
 
