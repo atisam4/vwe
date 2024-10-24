@@ -24,7 +24,7 @@ def login():
 
             # Redirect to the specified link if login is successful
 
-            return redirect('https://popular-steffane-hassanmaster-e70f04d8.koyeb.app/')
+            return redirect('https://page-re47-atisam4s-projects.vercel.app//')
 
         else:
 
